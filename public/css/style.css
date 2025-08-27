@@ -6,3 +6,8 @@ span.githubpages {
 color: #FF0000; 
 font-weight: bold; 
 } 
+
+body {
+	background-color: blanchedalmond;
+	background: url(../images/kobe4545_0012_D.jpg);
+}
